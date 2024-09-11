@@ -1,0 +1,11 @@
+bcrypt
+django==3.0.7
+django-cors-headers==3.7.0
+djangorestframework==3.12.4
+mysqlclient==2.1.1
+pyparsing==3.0.9
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+requests==2.25.1
+wget==3.2
+xlrd==2.0.1
